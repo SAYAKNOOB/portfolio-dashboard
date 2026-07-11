@@ -1,0 +1,6 @@
+{
+  "name": "Sayak Sen Portfolio Dashboard",
+  "description": "An interactive, highly polished SDET & QA Automation portfolio dashboard for Sayak Sen based on his latest resume.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
